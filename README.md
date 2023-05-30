@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on web development<br>👯I'm looking to collaborate in JS projects<br>🤝I'm looking for help with Tailwind<br>💬Ask me about how my day went<br>⚡Fun fact! I'll probably say it sucked.<br>
+🔭 I'm currently working on web development<br>👯I'm looking to collaborate in JS projects<br>🤝I'm looking for help with React<br>💬Please don't ask me about how my day went<br>
 
 
 ## 🌐 Socials:
